@@ -1,0 +1,17 @@
+[package]
+name = "websocket-experiment"
+version = "0.1.0"
+authors = ["Lilian A. Moraru <lilian.moraru90@gmail.com>"]
+
+[dependencies]
+futures = "0.1"
+tokio-core = "0.1"
+tk-http = "0.1"
+error-chain = "0.10"
+time = "0.1"
+tk-bufstream = "0.2"
+netbuf = "0.3"
+log = "0.3"
+env_logger = "0.3"
+argparse = "0.2"
+
